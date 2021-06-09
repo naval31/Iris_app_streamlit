@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run --server.port 80 iris-app-naval.py
+web: sh setup.sh && streamlit run iris-app-naval.py
