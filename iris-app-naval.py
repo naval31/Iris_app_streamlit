@@ -39,3 +39,4 @@ st.write(iris.target_names)
 
 st.subheader('prediction')
 st.write(iris.target_names[prediction])
+  
